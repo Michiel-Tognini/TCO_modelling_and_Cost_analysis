@@ -34,7 +34,7 @@ Total costs are discounted by the time period in which they are incurred to refl
 - Power capacity [MW] vs. Volume capacity [MWh]<br />
 - Installation economies of scale [# units] vs. Installation distance between units [km]<br />
 - Lifecycle duration [years] vs. discount rate impact [%]<br />
-- Component-cost fluctuation analysis<br /><br /><br />
+- Component-cost fluctuation analysis<br /><br />
 
 **6)	Key insights**<br />
 - The total TCO difference of 55.8% difference is observed between both models (ceteris paribus). This is largely due to a larger necessity in required steel components<br />
@@ -49,7 +49,7 @@ The model enables:<br />
 - Better-informed investment and engineering trade-offs<br />
 - Supply chain–aware system design decisions<br /><br />
 
-**7)	Skills demonstrated**<br />
+**8)	Skills demonstrated**<br />
 - Total Cost of Ownership (TCO) modeling<br />
 - Supply chain cost analysis<br />
 - Scenario & sensitivity analysis<br />
